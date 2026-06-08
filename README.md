@@ -1,42 +1,51 @@
-https://g.co/gemini/share/3e033e183d97
+Metabolizma. Canlılarıntemel bileşenleri. Hücreteorisi. Difüzyon ve ozmoz. Canlılarınsınıfladırılması. Mitozuncanlılar açısından önemi.Sera gazları. Çevre kirlilini azaltmak için yaplan çalışmalar
 
-cografya sorular 
 
-1- madenin işlenebilmesi için gerekli olan koşullar nelerdir sayfa 100
 
-2- Türkiye'de demir nerede çıkartılır ve önemi nedir sayfa 100
+1.SORU: Çevremize, nesnelere baktığımızda ve nedenlerin işlemleri üzerinde durduğumuzda hiçbir zaman tek bir durumda herhangi bir kuvvet veya zorunlu bağlantı, etkiyi nedene bağlayan herhangi bir özellik bulamayız. Gördüğümüz sadece birinin gerçekten olgu olarak ötekinin ardından geldiğidir. Bilardo toplarından birinin darbesini ötekinin hareketi izler. Dış duyulara görünenin hepsi bu kadardır. Bütün idealarımız izlenimlerimizin kopyalarından başka bir şey değildir. Başka bir deyişle iç veya dış duyularımızla daha önce duymadığımız bir şeyi düşünmemiz imkansızdır.
 
-3- bakır,bor,demir,krom bunların özelliklerini ezberle en az 2 tane isticek galiba sayfa 100
+Hume'un bilgi konusundaki bu görüşlerinin hangi ekole dayandığını ve bu ekolün özelliklerini kısaca açıklayınız.
 
-4- yenilenmeyen enerji kaynakları sayfa 103
+Hume, empirist ekolün temsilcisidir. Empirizme göre doğru bilgiye ulaşmak mümkündür. Bu ekol, doğru bilginin duyu deneyimleriyle elde edilebileceğini ileri sürer. Doğuştan getirilen herhangi bir bilgi olduğu kabul edilemez. Bütün bilgiler deneyimler sonucu elde edilir.
 
-5- sana hep oruçlarının dağılışını etkileyen faktörler sayfa 109
+ 
 
-6- Türkiye'nin işlevsel bölgeleri sayfa 115
+2) SORU: Tanrı’nın varlığının veya yokluğunun bilinemeyeceğini, insanın bu konuda bilgi sahibi olamayacağını savunan görüştür.
 
-7- Türkiye'nin Bölgesel kalkınma projeleri sayfa 115
+Yukarıdaki Tanrı’nın varlı ile ilgili görüşlerden hangisi açıklanmıştır.
 
-8- ulaşımı etkileyen doğal ve beşeri faktörler sayfa 117
+Agnostisizm görüşü açıklanmıştır.
 
-9- boru hatlarını yazınız sayfa 123
+3) SORU: Kant’ın doğru bilgi hakkındaki görüşünü “deneysiz kavramlar boş, kavramsız deneyler kördür” sözleriyle özetlemek mümkündür. Kant’ın bu sözlerini filozofun bilgi felsefesiyle ilgili görüşü ile ilişkilendirerek açıklayıp, bu konuyla ilgili bir örnek veriniz.
 
-10- Türkiye'nin UNESCO mil kültür mirasları sayfa 133
+Bilginin oluşabilmesi için hem duyular hem de akıl birlikte gereklidir. Ne yalnızca duyu verileri ne de sadece akılsal düşünceler tek başına doğru bilgiye ulaşmak için yeterlidir.
 
-11- turizmin Türkiye kültürü üzerindeki etkileri sayfa 135
+Örneğin; Bir çocuğun eline sıcak bir cisim değdiğinde, elinin yandığını hisseder. Ama sıcaklık ve yanmayı bilmeseydi bunu anlamlandıramazdı veya bu kavramları bilip hiç sıcak bir şeye dokunmamışsa yine bu bilgi boştur.
 
-12- ilk kültür merkezleri sayfa 142
+ 
 
-13- ilk yerleşim yerleri nelerdir sayfa 142 143 ......
+4) SORU: Din felsefesi din üzerine düşünen, dinin kavramlarını ve kurallarını ele alan felsefedir. Teoloji ise dine ilişkin bilgileri ve özellikleri konu alan disiplindir.
 
-14- Kültürü oluşturan unsurlar
+Buna göre din felsefesi ile teoloji farklılıkları bakımından karşılaştıran iki madde yazınız.
 
-15- dünya üzerindeki önemli üretim alanları
+* Din felsefesi eleştirel olma özelliğine sahipken teoloji dogmatiktir.
 
-16- Almanya'nın sanayisini açıklayınız sayfa 154
-17- uluslararası örgütler sayfa 158
+*Din felsefesi akıl merkezli bir yaklaşımı benimserken teoloji inanç merkezli bir yaklaşıma sahiptir.
 
-18- Birleşmiş Milletler hakkında bilgi veriniz
+ 
 
-19- Petrol ihraç eden ülkeler sayfa159
+5)SORU: Bilimsel bilginin özellikleri nelerdir 5 tanesini yazınız.
 
-20- ab hakkında bilgi veriniz sayfa 160
+Olgusaldır, sistemlidir, öngörü sağlar, kesindir, genelleyicidir, nesneldir, tutarlıdır, kesindir, evrenseldir, eleştireldir.
+
+ 
+
+6)SORU: Güzelliği konu edinen estetik ve sanat felsefesinin farkını belirtiniz.
+
+Estetik; güzelin ne olduğunu sorgulayan ve bunun bilgisine ulaşmaya çalışan felsefe dalıdır. Yani güzeli inceleyen daldır. Sanat felsefesi ise; insanın meydana getirdiği eserleri ele alan, sanatın ne olduğunu sorgulayan, sanatçının etkinliğini inceleyen felsefe dalıdır. Yani sanatsal güzelliği inceleyen daldır.
+
+ 
+
+7)SORU: 18. 19. yy felsefesinde öne çıkan problemlerinden olan bilginin kaynağı problemi nelerdir temsilcileriyle birlikte yazınız.
+
+Rasyonalizm – Descartes , Empirizm – Locke , Kritisizm – Kant
