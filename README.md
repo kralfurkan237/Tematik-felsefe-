@@ -1,51 +1,37 @@
-Metabolizma. Canlılarıntemel bileşenleri. Hücreteorisi. Difüzyon ve ozmoz. Canlılarınsınıfladırılması. Mitozuncanlılar açısından önemi.Sera gazları. Çevre kirlilini azaltmak için yaplan çalışmalar
+Tarih 
+1 Atatürk ilkeleri 312
 
+2 hukuk alanında yapılan inkilaplar
+Ve medeni kanunun kabulü 319-320
 
+3 eğitim alanında yapılan inkılaplar 320
 
-1.SORU: Çevremize, nesnelere baktığımızda ve nedenlerin işlemleri üzerinde durduğumuzda hiçbir zaman tek bir durumda herhangi bir kuvvet veya zorunlu bağlantı, etkiyi nedene bağlayan herhangi bir özellik bulamayız. Gördüğümüz sadece birinin gerçekten olgu olarak ötekinin ardından geldiğidir. Bilardo toplarından birinin darbesini ötekinin hareketi izler. Dış duyulara görünenin hepsi bu kadardır. Bütün idealarımız izlenimlerimizin kopyalarından başka bir şey değildir. Başka bir deyişle iç veya dış duyularımızla daha önce duymadığımız bir şeyi düşünmemiz imkansızdır.
+4 ekonomi alanında gelişmeler 
 
-Hume'un bilgi konusundaki bu görüşlerinin hangi ekole dayandığını ve bu ekolün özelliklerini kısaca açıklayınız.
+5 soyadı kanunu
 
-Hume, empirist ekolün temsilcisidir. Empirizme göre doğru bilgiye ulaşmak mümkündür. Bu ekol, doğru bilginin duyu deneyimleriyle elde edilebileceğini ileri sürer. Doğuştan getirilen herhangi bir bilgi olduğu kabul edilemez. Bütün bilgiler deneyimler sonucu elde edilir.
+6 Atatürk dönemi Türk dış politikası (Fransa Rusya İngiltere Yunanistan flan)
 
- 
+7 2. Dünya Savaşı arasındaki dönemde dünyada en yaygın politik düşünce 344
 
-2) SORU: Tanrı’nın varlığının veya yokluğunun bilinemeyeceğini, insanın bu konuda bilgi sahibi olamayacağını savunan görüştür.
+8 1929 dünya ekonomik etkisi nelerdir yani kara perşembe 343 344
 
-Yukarıdaki Tanrı’nın varlı ile ilgili görüşlerden hangisi açıklanmıştır.
+9 2. Dünya Savaşının seyrini değiştiren olaylar  hirosimaya atom bombası atılması gibi352
 
-Agnostisizm görüşü açıklanmıştır.
+10 2. Dünya Savaşı sırasında turkiyede görülen ekonomik önlemler 354
 
-3) SORU: Kant’ın doğru bilgi hakkındaki görüşünü “deneysiz kavramlar boş, kavramsız deneyler kördür” sözleriyle özetlemek mümkündür. Kant’ın bu sözlerini filozofun bilgi felsefesiyle ilgili görüşü ile ilişkilendirerek açıklayıp, bu konuyla ilgili bir örnek veriniz.
+11 2.dunya Savaşı sonuçları 
 
-Bilginin oluşabilmesi için hem duyular hem de akıl birlikte gereklidir. Ne yalnızca duyu verileri ne de sadece akılsal düşünceler tek başına doğru bilgiye ulaşmak için yeterlidir.
+12 koreye neden asker gönderdik
 
-Örneğin; Bir çocuğun eline sıcak bir cisim değdiğinde, elinin yandığını hisseder. Ama sıcaklık ve yanmayı bilmeseydi bunu anlamlandıramazdı veya bu kavramları bilip hiç sıcak bir şeye dokunmamışsa yine bu bilgi boştur.
+13 Türkiye 2. Dünya savaşına neden son anda katılmıştır15 1060 sonra dünyada yaşanan siyasi ve askeri gelişmeleri yazınız 378
 
- 
+16 1950 sonrası Türkiye Yunanistan arasındaki sorunlar nelerdir 375 376
 
-4) SORU: Din felsefesi din üzerine düşünen, dinin kavramlarını ve kurallarını ele alan felsefedir. Teoloji ise dine ilişkin bilgileri ve özellikleri konu alan disiplindir.
+17 1960 sonrası turkiyede yaşanan askeri darbeler 378
 
-Buna göre din felsefesi ile teoloji farklılıkları bakımından karşılaştıran iki madde yazınız.
+18 sayfa 379 380
 
-* Din felsefesi eleştirel olma özelliğine sahipken teoloji dogmatiktir.
+19 1990 sonrası turkiyede yaşanan askeri darbe gelişimleri 
 
-*Din felsefesi akıl merkezli bir yaklaşımı benimserken teoloji inanç merkezli bir yaklaşıma sahiptir.
-
- 
-
-5)SORU: Bilimsel bilginin özellikleri nelerdir 5 tanesini yazınız.
-
-Olgusaldır, sistemlidir, öngörü sağlar, kesindir, genelleyicidir, nesneldir, tutarlıdır, kesindir, evrenseldir, eleştireldir.
-
- 
-
-6)SORU: Güzelliği konu edinen estetik ve sanat felsefesinin farkını belirtiniz.
-
-Estetik; güzelin ne olduğunu sorgulayan ve bunun bilgisine ulaşmaya çalışan felsefe dalıdır. Yani güzeli inceleyen daldır. Sanat felsefesi ise; insanın meydana getirdiği eserleri ele alan, sanatın ne olduğunu sorgulayan, sanatçının etkinliğini inceleyen felsefe dalıdır. Yani sanatsal güzelliği inceleyen daldır.
-
- 
-
-7)SORU: 18. 19. yy felsefesinde öne çıkan problemlerinden olan bilginin kaynağı problemi nelerdir temsilcileriyle birlikte yazınız.
-
-Rasyonalizm – Descartes , Empirizm – Locke , Kritisizm – Kant
+20 1990 sonrası Dünyada yaşanan gelişmeler 390
